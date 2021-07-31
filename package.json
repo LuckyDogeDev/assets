@@ -1,5 +1,5 @@
 {
-  "name": "assets",
+  "name": "@luckyfinance/assets",
   "version": "1.0.0",
   "description": "Assets consumed by Trust Wallet",
   "main": "index.js",
@@ -68,5 +68,8 @@
     "setupFilesAfterEnv": [
       "jest-expect-message"
     ]
+  },
+  "directories": {
+    "test": "test"
   }
 }
