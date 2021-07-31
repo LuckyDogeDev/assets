@@ -1,0 +1,11 @@
+{
+  "name": "GoldNugget",
+  "symbol": "GOLN",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "-",
+  "website": "https://luckydoge.finance/",
+  "explorer": "https://etherscan.io/token/0xc6D69475f115F61B1e8C4e78c20C49201c869DB4",
+  "status": "active",
+  "id": "0xc6D69475f115F61B1e8C4e78c20C49201c869DB4"
+}
