@@ -1,6 +1,6 @@
 {
   "name": "@luckyfinance/assets",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Assets consumed by Trust Wallet",
   "main": "index.js",
   "scripts": {
