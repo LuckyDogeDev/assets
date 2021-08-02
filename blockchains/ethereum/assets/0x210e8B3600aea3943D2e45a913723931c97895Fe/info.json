@@ -1,0 +1,11 @@
+{
+  "name": "PlatinumNugget",
+  "website": "https://luckydoge.finance",
+  "description": "_",
+  "explorer": "https://etherscan.io/token/0x210e8B3600aea3943D2e45a913723931c97895Fe",
+  "type": "ERC20",
+  "symbol": "PLAN",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x210e8B3600aea3943D2e45a913723931c97895Fe"
+}
